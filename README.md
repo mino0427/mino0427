@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**mino0427/mino0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
+My skills
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 Here are some ideas to get you started:
 
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
