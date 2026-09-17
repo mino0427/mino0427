@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   
   
 - 📫 How to reach me: amh010427@naver.com
-- 😄 Pronouns: 
+- 📝 webpage(test): [https://minotestpage.netlify.app](https://minotestpage.netlify.app) 
 - ⚡ Fun fact: ...
