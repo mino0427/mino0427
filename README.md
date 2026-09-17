@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=코더가%20아닌%20엔지니어&fontColor=000000&fontSize=70&animation=fadeIn&textBg=false&desc=컴파일%20되는%20코드보다%20동작의%20근본을%20보는%20프로그래머&descAlignY=75)
 
-My skills
+## 🛠️ **기술 스택**
+
+### 💻 My skills
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -16,6 +18,12 @@ My skills
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
+
+### 🔧 도구 & 플랫폼
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 Here are some ideas to get you started:
 
